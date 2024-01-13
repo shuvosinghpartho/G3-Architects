@@ -201,6 +201,24 @@ main {
     font-size: 1.5rem;
 }
 
+footer {
+    border-radius: 8px;
+    background: #FFF4E7;
+}
+
+.author {
+    text-align: center;
+}
+
+.footer-text {
+    color: #424242;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
 
 /* responsive media queries */
 
